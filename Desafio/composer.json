@@ -1,0 +1,8 @@
+{
+    "nome": "wdev/bizut",
+    "autoload":{
+        "psr-4":{
+            "App\\":"app/"
+        }
+    }
+}
